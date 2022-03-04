@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/sslcert
 /.pnp
 .pnp.js
 
