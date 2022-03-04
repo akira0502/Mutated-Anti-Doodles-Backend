@@ -1,6 +1,6 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "root",
-    PASSWORD: "",
-    DB: "mda_db"
+    HOST: "mysql.madclubnft.com",
+    USER: "mad_owner",
+    PASSWORD: "passwordmadowner",
+    DB: "mad_db"
   };
